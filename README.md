@@ -1,4 +1,4 @@
-## Copilot Aided Game Enginge
+## Copilot Aided Game Engine
 
 Trying to build a game engine with the help of Github Copilot :)
 
